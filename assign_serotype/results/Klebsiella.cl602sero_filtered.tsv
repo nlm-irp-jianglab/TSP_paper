@@ -1,0 +1,352 @@
+cl60_0	Klebsiella	K62	49	100	0.49	Confident
+cl60_10	Klebsiella	K102	2	2	1.0	Highly confident
+cl60_1000	Klebsiella	O4	1	1	1.0	Highly confident
+cl60_1004	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_101	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_1017	Klebsiella	K72	3	3	1.0	Highly confident
+cl60_1019	Klebsiella	K153	1	1	1.0	Highly confident
+cl60_1022	Klebsiella	K61	1	1	1.0	Highly confident
+cl60_1023	Klebsiella	K81	1	1	1.0	Highly confident
+cl60_1027	Klebsiella	O2a	2	2	1.0	Highly confident
+cl60_1029	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_1034	Klebsiella	K110	1	1	1.0	Highly confident
+cl60_1050	Klebsiella	K2	2	4	0.5	Uncertain
+cl60_1051	Klebsiella	K168;K186	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1054	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_1059	Klebsiella	K169	2	2	1.0	Highly confident
+cl60_1064	Klebsiella	K105	1	1	1.0	Highly confident
+cl60_1065	Klebsiella	K3	1	1	1.0	Highly confident
+cl60_1068	Klebsiella	O2a	1	1	1.0	Highly confident
+cl60_1073	Klebsiella	K25	15	25	0.6	Confident
+cl60_1075	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_108	Klebsiella	K3	30	41	0.731707	Confident
+cl60_1080	Klebsiella	K25	54	105	0.514286	Confident
+cl60_1081	Klebsiella	K45	1	1	1.0	Highly confident
+cl60_1083	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_1086	Klebsiella	O2afg	1	1	1.0	Highly confident
+cl60_1089	Klebsiella	O1	1	1	1.0	Highly confident
+cl60_1091	Klebsiella	K109	1	1	1.0	Highly confident
+cl60_1093	Klebsiella	K42	2	3	0.666667	Uncertain
+cl60_1095	Klebsiella	K110	1	1	1.0	Highly confident
+cl60_1096	Klebsiella	K15	8	9	0.888889	Confident
+cl60_11	Klebsiella	K126	23	47	0.489362	Confident
+cl60_1102	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_1103	Klebsiella	O3/O3a	2	2	1.0	Highly confident
+cl60_1104	Klebsiella	O3/O3a	1	1	1.0	Highly confident
+cl60_1105	Klebsiella	K9	21	35	0.6	Confident
+cl60_1106	Klebsiella	K47	1	4	0.25	Uncertain
+cl60_1108	Klebsiella	K15	58	75	0.773333	Confident
+cl60_111	Klebsiella	K34	23	84	0.27381	Confident
+cl60_1112	Klebsiella	K34	7	8	0.875	Confident
+cl60_1113	Klebsiella	O3/O3a	2	3	0.666667	Uncertain
+cl60_1119	Klebsiella	K180	1	1	1.0	Highly confident
+cl60_112	Klebsiella	K115	13	27	0.481481	Confident
+cl60_1120	Klebsiella	K62	1	1	1.0	Highly confident
+cl60_1121	Klebsiella	K45	10	13	0.769231	Confident
+cl60_1122	Klebsiella	K45	4	4	1.0	Highly confident
+cl60_1126	Klebsiella	K81	7	8	0.875	Confident
+cl60_1127	Klebsiella	O3/O3a	2	2	1.0	Highly confident
+cl60_1128	Klebsiella	K3	8	8	1.0	Highly confident
+cl60_1129	Klebsiella	O101	2	2	1.0	Highly confident
+cl60_1130	Klebsiella	K117;K3	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1131	Klebsiella	K128	1	1	1.0	Highly confident
+cl60_1137	Klebsiella	K117	16	22	0.727273	Confident
+cl60_1140	Klebsiella	O3/O3a;O4	4;5	15;15	0.266667;0.333333	Confident;Confident
+cl60_1144	Klebsiella	K128	19	19	1.0	Highly confident
+cl60_1149	Klebsiella	K63	95	201	0.472637	Confident
+cl60_1151	Klebsiella	K148	1	1	1.0	Highly confident
+cl60_1153	Klebsiella	K128	21	24	0.875	Confident
+cl60_1154	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_1155	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_1157	Klebsiella	K17	1	1	1.0	Highly confident
+cl60_116	Klebsiella	K64	177	270	0.655556	Confident
+cl60_1160	Klebsiella	K2	1	1	1.0	Highly confident
+cl60_1162	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_1163	Klebsiella	O2afg	1	1	1.0	Highly confident
+cl60_1165	Klebsiella	O1;O2afg	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1166	Klebsiella	O1;O2afg	6;5	20;20	0.3;0.25	Confident;Confident
+cl60_1167	Klebsiella	O2ac	1	1	1.0	Highly confident
+cl60_117	Klebsiella	K180	20	28	0.714286	Confident
+cl60_118	Klebsiella	K184	1	1	1.0	Highly confident
+cl60_1187	Klebsiella	K17	1	1	1.0	Highly confident
+cl60_120	Klebsiella	K81	49	67	0.731343	Confident
+cl60_121	Klebsiella	K127	47	72	0.652778	Confident
+cl60_122	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_126	Klebsiella	K62	1	1	1.0	Highly confident
+cl60_127	Klebsiella	K53	5	5	1.0	Highly confident
+cl60_128	Klebsiella	K136	4	4	1.0	Highly confident
+cl60_129	Klebsiella	K24	1	1	1.0	Highly confident
+cl60_13	Klebsiella	K150	5	9	0.555556	Confident
+cl60_131	Klebsiella	K140	10	11	0.909091	Highly confident
+cl60_137	Klebsiella	K62	47	53	0.886792	Confident
+cl60_141	Klebsiella	K12	37	58	0.637931	Confident
+cl60_144	Klebsiella	K180	2	6	0.333333	Uncertain
+cl60_145	Klebsiella	K17	20	69	0.289855	Confident
+cl60_149	Klebsiella	K17	161	233	0.690987	Confident
+cl60_152	Klebsiella	K117	20	32	0.625	Confident
+cl60_153	Klebsiella	K157	18	26	0.692308	Confident
+cl60_154	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_155	Klebsiella	K81	23	33	0.69697	Confident
+cl60_156	Klebsiella	K127	2	2	1.0	Highly confident
+cl60_160	Klebsiella	K143	5	12	0.416667	Confident
+cl60_161	Klebsiella	K64	36	95	0.378947	Confident
+cl60_166	Klebsiella	K14	19	31	0.612903	Confident
+cl60_169	Klebsiella	K163	6	7	0.857143	Confident
+cl60_170	Klebsiella	K30	4	8	0.5	Confident
+cl60_171	Klebsiella	K153	18	20	0.9	Confident
+cl60_172	Klebsiella	K3	1	2	0.5	Uncertain
+cl60_18	Klebsiella	K64	5	7	0.714286	Confident
+cl60_181	Klebsiella	O1	7	7	1.0	Highly confident
+cl60_184	Klebsiella	K151	3	3	1.0	Highly confident
+cl60_188	Klebsiella	K62	1	1	1.0	Highly confident
+cl60_19	Klebsiella	K47	30	71	0.422535	Confident
+cl60_191	Klebsiella	K14	187	270	0.692593	Confident
+cl60_192	Klebsiella	O103	3	8	0.375	Uncertain
+cl60_194	Klebsiella	K110	1	1	1.0	Highly confident
+cl60_195	Klebsiella	K71	13	38	0.342105	Confident
+cl60_196	Klebsiella	O2afg	2	3	0.666667	Uncertain
+cl60_198	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_200	Klebsiella	K128	16	20	0.8	Confident
+cl60_201	Klebsiella	K107	63	95	0.663158	Confident
+cl60_203	Klebsiella	O3/O3a	6	6	1.0	Highly confident
+cl60_207	Klebsiella	K112	13	16	0.8125	Confident
+cl60_209	Klebsiella	K25	178	411	0.43309	Confident
+cl60_211	Klebsiella	O3b	1	1	1.0	Highly confident
+cl60_212	Klebsiella	K18	45	53	0.849057	Confident
+cl60_214	Klebsiella	K23;K28	98;89	276;276	0.355072;0.322464	Confident;Confident
+cl60_216	Klebsiella	K140	2	3	0.666667	Uncertain
+cl60_217	Klebsiella	O101	4	5	0.8	Confident
+cl60_218	Klebsiella	K28	162	295	0.549153	Confident
+cl60_22	Klebsiella	K150;K155;K162;K82	3;3;2;2	11;11;11;11	0.272727;0.272727;0.181818;0.181818	Uncertain;Uncertain;Uncertain;Uncertain
+cl60_220	Klebsiella	K53	37	48	0.770833	Confident
+cl60_223	Klebsiella	O1	3	3	1.0	Highly confident
+cl60_224	Klebsiella	K155	19	23	0.826087	Confident
+cl60_225	Klebsiella	O5	16	33	0.484848	Confident
+cl60_226	Klebsiella	K164	9	11	0.818182	Confident
+cl60_23	Klebsiella	K104	6	8	0.75	Confident
+cl60_231	Klebsiella	K81	4	5	0.8	Confident
+cl60_232	Klebsiella	K105	35	68	0.514706	Confident
+cl60_235	Klebsiella	O5	1	1	1.0	Highly confident
+cl60_238	Klebsiella	K22	5	12	0.416667	Confident
+cl60_241	Klebsiella	K135;K52	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_25	Klebsiella	K162	4	5	0.8	Confident
+cl60_250	Klebsiella	K34	7	10	0.7	Confident
+cl60_251	Klebsiella	K139	8	9	0.888889	Confident
+cl60_254	Klebsiella	O3b	1	1	1.0	Highly confident
+cl60_263	Klebsiella	O2a	2	3	0.666667	Uncertain
+cl60_265	Klebsiella	K42	2	2	1.0	Highly confident
+cl60_268	Klebsiella	O5	3	3	1.0	Highly confident
+cl60_269	Klebsiella	K130	4	6	0.666667	Confident
+cl60_27	Klebsiella	K64	9	14	0.642857	Confident
+cl60_272	Klebsiella	K31	3	3	1.0	Highly confident
+cl60_274	Klebsiella	K3	15	20	0.75	Confident
+cl60_276	Klebsiella	K36	20	33	0.606061	Confident
+cl60_28	Klebsiella	K7	99	164	0.603659	Confident
+cl60_285	Klebsiella	O2afg	2	2	1.0	Highly confident
+cl60_286	Klebsiella	K81	3	3	1.0	Highly confident
+cl60_293	Klebsiella	K181	1	1	1.0	Highly confident
+cl60_299	Klebsiella	K127	1	1	1.0	Highly confident
+cl60_300	Klebsiella	K47	1	1	1.0	Highly confident
+cl60_302	Klebsiella	O1;O103;O2a;O4	1;1;1;1	4;4;4;4	0.25;0.25;0.25;0.25	Uncertain;Uncertain;Uncertain;Uncertain
+cl60_305	Klebsiella	K66	8	14	0.571429	Confident
+cl60_306	Klebsiella	K117	9	11	0.818182	Confident
+cl60_31	Klebsiella	K128	25	28	0.892857	Confident
+cl60_315	Klebsiella	O103;O12	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_318	Klebsiella	O3b	2	2	1.0	Highly confident
+cl60_320	Klebsiella	K34	5	6	0.833333	Confident
+cl60_322	Klebsiella	K43	1	1	1.0	Highly confident
+cl60_328	Klebsiella	K55	1	1	1.0	Highly confident
+cl60_329	Klebsiella	K106	60	140	0.428571	Confident
+cl60_33	Klebsiella	K52	16	24	0.666667	Confident
+cl60_330	Klebsiella	K2	12	19	0.631579	Confident
+cl60_334	Klebsiella	K117	44	109	0.40367	Confident
+cl60_335	Klebsiella	K10	1	1	1.0	Highly confident
+cl60_339	Klebsiella	K172	2	2	1.0	Highly confident
+cl60_350	Klebsiella	K3	69	85	0.811765	Confident
+cl60_351	Klebsiella	K57	29	32	0.90625	Highly confident
+cl60_352	Klebsiella	K36	11	14	0.785714	Confident
+cl60_353	Klebsiella	K46	52	84	0.619048	Confident
+cl60_356	Klebsiella	K173	2	2	1.0	Highly confident
+cl60_357	Klebsiella	K24	84	175	0.48	Confident
+cl60_358	Klebsiella	O12	1	1	1.0	Highly confident
+cl60_359	Klebsiella	K47	41	60	0.683333	Confident
+cl60_360	Klebsiella	K25	13	15	0.866667	Confident
+cl60_362	Klebsiella	K119	20	32	0.625	Confident
+cl60_365	Klebsiella	K149	2	2	1.0	Highly confident
+cl60_366	Klebsiella	K146	2	2	1.0	Highly confident
+cl60_367	Klebsiella	K25	63	107	0.588785	Confident
+cl60_37	Klebsiella	K102	319	419	0.761337	Confident
+cl60_373	Klebsiella	K24	31	45	0.688889	Confident
+cl60_376	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_377	Klebsiella	K70	4	8	0.5	Confident
+cl60_379	Klebsiella	K109	13	27	0.481481	Confident
+cl60_380	Klebsiella	K128	14	16	0.875	Confident
+cl60_381	Klebsiella	K81	19	23	0.826087	Confident
+cl60_383	Klebsiella	O1	48	68	0.705882	Confident
+cl60_384	Klebsiella	O2ac	1	1	1.0	Highly confident
+cl60_385	Klebsiella	O103	1	1	1.0	Highly confident
+cl60_387	Klebsiella	O5	16	21	0.761905	Confident
+cl60_388	Klebsiella	K70	2	2	1.0	Highly confident
+cl60_395	Klebsiella	K3	103	162	0.635802	Confident
+cl60_4	Klebsiella	K27	167	225	0.742222	Confident
+cl60_400	Klebsiella	K80	1	1	1.0	Highly confident
+cl60_405	Klebsiella	O103	4	4	1.0	Highly confident
+cl60_408	Klebsiella	K71	3	5	0.6	Uncertain
+cl60_411	Klebsiella	K139	6	7	0.857143	Confident
+cl60_413	Klebsiella	K43	9	13	0.692308	Confident
+cl60_417	Klebsiella	K107	39	59	0.661017	Confident
+cl60_419	Klebsiella	K54	4	4	1.0	Highly confident
+cl60_421	Klebsiella	K74	3	3	1.0	Highly confident
+cl60_425	Klebsiella	O3b	10	12	0.833333	Confident
+cl60_43	Klebsiella	K186;K74	7;6	25;25	0.28;0.24	Confident;Confident
+cl60_434	Klebsiella	K181	2	2	1.0	Highly confident
+cl60_436	Klebsiella	O12	1	1	1.0	Highly confident
+cl60_44	Klebsiella	K14	25	41	0.609756	Confident
+cl60_441	Klebsiella	K164	2	2	1.0	Highly confident
+cl60_446	Klebsiella	K17	6	8	0.75	Confident
+cl60_448	Klebsiella	K119	7	10	0.7	Confident
+cl60_449	Klebsiella	K45	42	91	0.461538	Confident
+cl60_455	Klebsiella	K109	6	22	0.272727	Confident
+cl60_456	Klebsiella	O1	1	1	1.0	Highly confident
+cl60_457	Klebsiella	O5	3	3	1.0	Highly confident
+cl60_461	Klebsiella	K23	1	1	1.0	Highly confident
+cl60_463	Klebsiella	K12	1	1	1.0	Highly confident
+cl60_464	Klebsiella	K22	1	1	1.0	Highly confident
+cl60_465	Klebsiella	O5	21	33	0.636364	Confident
+cl60_47	Klebsiella	K136	36	58	0.62069	Confident
+cl60_474	Klebsiella	K53	19	21	0.904762	Highly confident
+cl60_476	Klebsiella	O1	45	57	0.789474	Confident
+cl60_479	Klebsiella	K110	1	1	1.0	Highly confident
+cl60_480	Klebsiella	K1	1	1	1.0	Highly confident
+cl60_483	Klebsiella	K128	25	30	0.833333	Confident
+cl60_489	Klebsiella	K159	1	1	1.0	Highly confident
+cl60_497	Klebsiella	K115	1	1	1.0	Highly confident
+cl60_498	Klebsiella	O101	1	1	1.0	Highly confident
+cl60_5	Klebsiella	K126	11	15	0.733333	Confident
+cl60_50	Klebsiella	K144	2	2	1.0	Highly confident
+cl60_504	Klebsiella	K74	3	6	0.5	Uncertain
+cl60_51	Klebsiella	K130	6	12	0.5	Confident
+cl60_515	Klebsiella	K169	14	14	1.0	Highly confident
+cl60_518	Klebsiella	K43	4	6	0.666667	Confident
+cl60_521	Klebsiella	K176	6	7	0.857143	Confident
+cl60_523	Klebsiella	K47	3	4	0.75	Uncertain
+cl60_524	Klebsiella	O1;O2a	2;2	4;4	0.5;0.5	Uncertain;Uncertain
+cl60_532	Klebsiella	K149	22	28	0.785714	Confident
+cl60_534	Klebsiella	K34	2	4	0.5	Uncertain
+cl60_535	Klebsiella	K30	6	7	0.857143	Confident
+cl60_538	Klebsiella	O104;O3b	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_543	Klebsiella	K62	44	53	0.830189	Confident
+cl60_548	Klebsiella	K33	1	1	1.0	Highly confident
+cl60_55	Klebsiella	K183	32	82	0.390244	Confident
+cl60_550	Klebsiella	K46	35	48	0.729167	Confident
+cl60_555	Klebsiella	O12	2	2	1.0	Highly confident
+cl60_557	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_56	Klebsiella	O2afg	1	1	1.0	Highly confident
+cl60_569	Klebsiella	K118	6	10	0.6	Confident
+cl60_572	Klebsiella	K2	48	78	0.615385	Confident
+cl60_578	Klebsiella	O1	2	2	1.0	Highly confident
+cl60_58	Klebsiella	K10	74	92	0.804348	Confident
+cl60_592	Klebsiella	K142	1	2	0.5	Uncertain
+cl60_594	Klebsiella	K166	1	1	1.0	Highly confident
+cl60_6	Klebsiella	K38	58	71	0.816901	Confident
+cl60_60	Klebsiella	K56	11	24	0.458333	Confident
+cl60_600	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_607	Klebsiella	K186	3	4	0.75	Uncertain
+cl60_614	Klebsiella	O5	1	1	1.0	Highly confident
+cl60_620	Klebsiella	K128	4	4	1.0	Highly confident
+cl60_622	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_624	Klebsiella	O5	2	3	0.666667	Uncertain
+cl60_626	Klebsiella	K117	2	2	1.0	Highly confident
+cl60_629	Klebsiella	K42	2	2	1.0	Highly confident
+cl60_63	Klebsiella	K142	10	12	0.833333	Confident
+cl60_634	Klebsiella	K36	3	3	1.0	Highly confident
+cl60_639	Klebsiella	K111	15	23	0.652174	Confident
+cl60_64	Klebsiella	K122	22	35	0.628571	Confident
+cl60_645	Klebsiella	K141	5	6	0.833333	Confident
+cl60_65	Klebsiella	K139	2	2	1.0	Highly confident
+cl60_654	Klebsiella	K57	3	3	1.0	Highly confident
+cl60_655	Klebsiella	K12	1	1	1.0	Highly confident
+cl60_659	Klebsiella	O3/O3a	4	6	0.666667	Confident
+cl60_66	Klebsiella	K149	40	69	0.57971	Confident
+cl60_662	Klebsiella	K10	1	1	1.0	Highly confident
+cl60_664	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_665	Klebsiella	K63	15	16	0.9375	Highly confident
+cl60_67	Klebsiella	K169	4	4	1.0	Highly confident
+cl60_670	Klebsiella	O1	35	60	0.583333	Confident
+cl60_673	Klebsiella	K173	1	1	1.0	Highly confident
+cl60_68	Klebsiella	K35	7	9	0.777778	Confident
+cl60_680	Klebsiella	K3	1	1	1.0	Highly confident
+cl60_681	Klebsiella	K48	2	2	1.0	Highly confident
+cl60_685	Klebsiella	K12	1	1	1.0	Highly confident
+cl60_69	Klebsiella	K166	16	27	0.592593	Confident
+cl60_693	Klebsiella	K170	1	1	1.0	Highly confident
+cl60_694	Klebsiella	O4	2	2	1.0	Highly confident
+cl60_70	Klebsiella	K10	2	2	1.0	Highly confident
+cl60_700	Klebsiella	K25	13	26	0.5	Confident
+cl60_705	Klebsiella	K169	11	14	0.785714	Confident
+cl60_707	Klebsiella	K9	1	1	1.0	Highly confident
+cl60_710	Klebsiella	K55	2	2	1.0	Highly confident
+cl60_72	Klebsiella	K166	1	3	0.333333	Uncertain
+cl60_720	Klebsiella	O2afg	1	1	1.0	Highly confident
+cl60_726	Klebsiella	O5	12	15	0.8	Confident
+cl60_728	Klebsiella	K135	3	6	0.5	Uncertain
+cl60_731	Klebsiella	K117;K3	3;3	7;7	0.428571;0.428571	Uncertain;Uncertain
+cl60_735	Klebsiella	O103;O4	2;2	4;4	0.5;0.5	Uncertain;Uncertain
+cl60_737	Klebsiella	O3b	1	1	1.0	Highly confident
+cl60_74	Klebsiella	K60	83	146	0.568493	Confident
+cl60_749	Klebsiella	K105	29	41	0.707317	Confident
+cl60_753	Klebsiella	O104;O2afg;O3b;O5	1;1;1;1	4;4;4;4	0.25;0.25;0.25;0.25	Uncertain;Uncertain;Uncertain;Uncertain
+cl60_757	Klebsiella	K124	1	1	1.0	Highly confident
+cl60_758	Klebsiella	K47	1	1	1.0	Highly confident
+cl60_764	Klebsiella	K45	5	7	0.714286	Confident
+cl60_773	Klebsiella	O3/O3a;O5	3;3	6;6	0.5;0.5	Uncertain;Uncertain
+cl60_78	Klebsiella	K164	11	12	0.916667	Highly confident
+cl60_785	Klebsiella	K148	2	2	1.0	Highly confident
+cl60_786	Klebsiella	K18	17	43	0.395349	Confident
+cl60_79	Klebsiella	K139	19	23	0.826087	Confident
+cl60_790	Klebsiella	O104	1	1	1.0	Highly confident
+cl60_791	Klebsiella	K140	6	6	1.0	Highly confident
+cl60_793	Klebsiella	O5	4	6	0.666667	Confident
+cl60_8	Klebsiella	K107;K13	41;90	546;546	0.0750916;0.164835	Uncertain;Confident
+cl60_802	Klebsiella	K109	1	1	1.0	Highly confident
+cl60_803	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_804	Klebsiella	K119	8	9	0.888889	Confident
+cl60_81	Klebsiella	K127	4	6	0.666667	Confident
+cl60_812	Klebsiella	K146	1	1	1.0	Highly confident
+cl60_814	Klebsiella	O4	1	1	1.0	Highly confident
+cl60_818	Klebsiella	O104;O3b	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_82	Klebsiella	K47	16	19	0.842105	Confident
+cl60_833	Klebsiella	K62	99	133	0.744361	Confident
+cl60_839	Klebsiella	O5	1	1	1.0	Highly confident
+cl60_840	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_845	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_846	Klebsiella	K64	1	1	1.0	Highly confident
+cl60_853	Klebsiella	O3/O3a;O5	4;4	9;9	0.444444;0.444444	Confident;Confident
+cl60_854	Klebsiella	K117	1	1	1.0	Highly confident
+cl60_855	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_86	Klebsiella	K128	36	38	0.947368	Highly confident
+cl60_862	Klebsiella	O3/O3a	9	14	0.642857	Confident
+cl60_864	Klebsiella	K66	8	10	0.8	Confident
+cl60_866	Klebsiella	O3/O3a	1	1	1.0	Highly confident
+cl60_869	Klebsiella	K159	3	4	0.75	Uncertain
+cl60_872	Klebsiella	K186	1	1	1.0	Highly confident
+cl60_875	Klebsiella	K21	13	16	0.8125	Confident
+cl60_882	Klebsiella	K3	79	147	0.537415	Confident
+cl60_887	Klebsiella	K57	5	5	1.0	Highly confident
+cl60_899	Klebsiella	O103	1	1	1.0	Highly confident
+cl60_9	Klebsiella	K118	6	8	0.75	Confident
+cl60_90	Klebsiella	K12	33	53	0.622642	Confident
+cl60_901	Klebsiella	O102	1	1	1.0	Highly confident
+cl60_91	Klebsiella	K123;K60	22;17	60;60	0.366667;0.283333	Confident;Confident
+cl60_914	Klebsiella	O2a	2	2	1.0	Highly confident
+cl60_918	Klebsiella	K127	5	11	0.454545	Confident
+cl60_93	Klebsiella	K36	2	2	1.0	Highly confident
+cl60_930	Klebsiella	K110	7	11	0.636364	Confident
+cl60_933	Klebsiella	K2	4	4	1.0	Highly confident
+cl60_946	Klebsiella	K107;K141;K43	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_962	Klebsiella	O3/O3a	5	7	0.714286	Confident
+cl60_97	Klebsiella	K19	80	117	0.683761	Confident
+cl60_975	Klebsiella	K162;K72	4;4	12;12	0.333333;0.333333	Confident;Confident
+cl60_98	Klebsiella	K177	1	1	1.0	Highly confident
+cl60_99	Klebsiella	K184	1	1	1.0	Highly confident
+cl60_990	Klebsiella	K111	1	1	1.0	Highly confident

@@ -1,0 +1,489 @@
+cl60_1	Escherichia_coli_Shigella	Escherichia_coli-KX11;Escherichia_coli-KX42	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1001	Escherichia_coli_Shigella	K10	17	20	0.85	Confident
+cl60_1002	Escherichia_coli_Shigella	O23	42	47	0.893617	Confident
+cl60_1003	Escherichia_coli_Shigella	O116	3	3	1.0	Highly confident
+cl60_1006	Escherichia_coli_Shigella	O13/O129/O135	19	19	1.0	Highly confident
+cl60_1009	Escherichia_coli_Shigella	O108	1	1	1.0	Highly confident
+cl60_1013	Escherichia_coli_Shigella	O49	7	7	1.0	Highly confident
+cl60_1014	Escherichia_coli_Shigella	O107/O117	1	1	1.0	Highly confident
+cl60_1015	Escherichia_coli_Shigella	O10	3	3	1.0	Highly confident
+cl60_1016	Escherichia_coli_Shigella	O10	6	6	1.0	Highly confident
+cl60_1020	Escherichia_coli_Shigella	O11	20	23	0.869565	Confident
+cl60_1024	Escherichia_coli_Shigella	O2/O50	9	9	1.0	Highly confident
+cl60_1025	Escherichia_coli_Shigella	O5	2	2	1.0	Highly confident
+cl60_1026	Escherichia_coli_Shigella	O1	14	15	0.933333	Highly confident
+cl60_1028	Escherichia_coli_Shigella	O13/O129/O135	8	8	1.0	Highly confident
+cl60_103	Escherichia_coli_Shigella	O152	1	1	1.0	Highly confident
+cl60_1030	Escherichia_coli_Shigella	O174	1	1	1.0	Highly confident
+cl60_1032	Escherichia_coli_Shigella	O116	11	11	1.0	Highly confident
+cl60_1033	Escherichia_coli_Shigella	Escherichia_coli-KX02	2	4	0.5	Uncertain
+cl60_1035	Escherichia_coli_Shigella	O27	11	11	1.0	Highly confident
+cl60_1036	Escherichia_coli_Shigella	O5	4	4	1.0	Highly confident
+cl60_1038	Escherichia_coli_Shigella	O126	16	16	1.0	Highly confident
+cl60_104	Escherichia_coli_Shigella	OX13	16	17	0.941176	Highly confident
+cl60_1040	Escherichia_coli_Shigella	O19	3	3	1.0	Highly confident
+cl60_1041	Escherichia_coli_Shigella	O53	3	3	1.0	Highly confident
+cl60_1042	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_1043	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_1045	Escherichia_coli_Shigella	O19	10	10	1.0	Highly confident
+cl60_1046	Escherichia_coli_Shigella	O8/O9/O9a	26	26	1.0	Highly confident
+cl60_1048	Escherichia_coli_Shigella	O107/O117	57	61	0.934426	Highly confident
+cl60_105	Escherichia_coli_Shigella	Escherichia_coli-KX02	6	7	0.857143	Confident
+cl60_1052	Escherichia_coli_Shigella	O70	7	7	1.0	Highly confident
+cl60_1055	Escherichia_coli_Shigella	O136	11	11	1.0	Highly confident
+cl60_1056	Escherichia_coli_Shigella	O24/O56/O157	1	1	1.0	Highly confident
+cl60_1057	Escherichia_coli_Shigella	O103	20	20	1.0	Highly confident
+cl60_1058	Escherichia_coli_Shigella	O103	22	22	1.0	Highly confident
+cl60_106	Escherichia_coli_Shigella	Escherichia_coli-KX21	204	259	0.787645	Confident
+cl60_1060	Escherichia_coli_Shigella	O8/O9/O9a	28	28	1.0	Highly confident
+cl60_1070	Escherichia_coli_Shigella	O102	22	22	1.0	Highly confident
+cl60_1072	Escherichia_coli_Shigella	O176	2	2	1.0	Highly confident
+cl60_1076	Escherichia_coli_Shigella	Escherichia_coli-KX44	1	2	0.5	Uncertain
+cl60_1077	Escherichia_coli_Shigella	O15	1	1	1.0	Highly confident
+cl60_1078	Escherichia_coli_Shigella	O13/O129/O135	79	79	1.0	Highly confident
+cl60_1082	Escherichia_coli_Shigella	O149	28	28	1.0	Highly confident
+cl60_1084	Escherichia_coli_Shigella	Escherichia_coli-KX11;Escherichia_coli-KX42	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1085	Escherichia_coli_Shigella	O169/O183	1	1	1.0	Highly confident
+cl60_1087	Escherichia_coli_Shigella	Escherichia_coli-KX29	1	1	1.0	Highly confident
+cl60_1088	Escherichia_coli_Shigella	O149	18	19	0.947368	Highly confident
+cl60_109	Escherichia_coli_Shigella	Escherichia_coli-KX02	2	3	0.666667	Uncertain
+cl60_1090	Escherichia_coli_Shigella	K63	1	2	0.5	Uncertain
+cl60_1094	Escherichia_coli_Shigella	O121	5	5	1.0	Highly confident
+cl60_1097	Escherichia_coli_Shigella	O54	1	1	1.0	Highly confident
+cl60_1098	Escherichia_coli_Shigella	O182	28	30	0.933333	Highly confident
+cl60_1099	Escherichia_coli_Shigella	O36	2	5	0.4	Uncertain
+cl60_110	Escherichia_coli_Shigella	OX13	12	12	1.0	Highly confident
+cl60_1100	Escherichia_coli_Shigella	O89/O101/O162	1	1	1.0	Highly confident
+cl60_1101	Escherichia_coli_Shigella	Escherichia_coli-KX38	49	61	0.803279	Confident
+cl60_1105	Escherichia_coli_Shigella	K9	1	1	1.0	Highly confident
+cl60_1107	Escherichia_coli_Shigella	O18/O18ab/O18ac	2	2	1.0	Highly confident
+cl60_1110	Escherichia_coli_Shigella	O1;O105;O107/O117	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_1115	Escherichia_coli_Shigella	Escherichia_coli-KX29	1	1	1.0	Highly confident
+cl60_1117	Escherichia_coli_Shigella	Escherichia_coli-KX75	1	1	1.0	Highly confident
+cl60_1118	Escherichia_coli_Shigella	O16	1	1	1.0	Highly confident
+cl60_112	Escherichia_coli_Shigella	K115	6	7	0.857143	Confident
+cl60_1121	Escherichia_coli_Shigella	K71	1	1	1.0	Highly confident
+cl60_1123	Escherichia_coli_Shigella	K114	1	1	1.0	Highly confident
+cl60_1124	Escherichia_coli_Shigella	K10	1	1	1.0	Highly confident
+cl60_1132	Escherichia_coli_Shigella	O17/O44/O73/O77/O106	6	6	1.0	Highly confident
+cl60_1133	Escherichia_coli_Shigella	O17/O44/O73/O77/O106	9	9	1.0	Highly confident
+cl60_1136	Escherichia_coli_Shigella	O18/O18ab/O18ac;O19	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1139	Escherichia_coli_Shigella	K10	1	1	1.0	Highly confident
+cl60_114	Escherichia_coli_Shigella	Escherichia_coli-KX03	1	1	1.0	Highly confident
+cl60_1148	Escherichia_coli_Shigella	O45	2	2	1.0	Highly confident
+cl60_1149	Escherichia_coli_Shigella	K63	21	35	0.6	Confident
+cl60_1152	Escherichia_coli_Shigella	O98	1	1	1.0	Highly confident
+cl60_1169	Escherichia_coli_Shigella	Escherichia_coli-KX22;Escherichia_coli-KX41	1;1	3;3	0.333333;0.333333	Uncertain;Uncertain
+cl60_1173	Escherichia_coli_Shigella	O2/O50	1	1	1.0	Highly confident
+cl60_1174	Escherichia_coli_Shigella	O17/O44/O73/O77/O106	2	2	1.0	Highly confident
+cl60_1185	Escherichia_coli_Shigella	58;O123/O186	1;1	1;1	1.0;1.0	Highly confident;Highly confident
+cl60_1188	Escherichia_coli_Shigella	O70	1	1	1.0	Highly confident
+cl60_121	Escherichia_coli_Shigella	K127	40	57	0.701754	Confident
+cl60_125	Escherichia_coli_Shigella	O86/O90/O127	8	8	1.0	Highly confident
+cl60_127	Escherichia_coli_Shigella	K53	10	12	0.833333	Confident
+cl60_130	Escherichia_coli_Shigella	O22	2	2	1.0	Highly confident
+cl60_132	Escherichia_coli_Shigella	O39	16	16	1.0	Highly confident
+cl60_135	Escherichia_coli_Shigella	O86/O90/O127	19	19	1.0	Highly confident
+cl60_138	Escherichia_coli_Shigella	O54	3	3	1.0	Highly confident
+cl60_144	Escherichia_coli_Shigella	K115	1	2	0.5	Uncertain
+cl60_148	Escherichia_coli_Shigella	O166	1	1	1.0	Highly confident
+cl60_15	Escherichia_coli_Shigella	O51	21	21	1.0	Highly confident
+cl60_151	Escherichia_coli_Shigella	O24/O56/O157	10	10	1.0	Highly confident
+cl60_158	Escherichia_coli_Shigella	Escherichia_coli-KX53	45	106	0.424528	Confident
+cl60_159	Escherichia_coli_Shigella	O24/O56/O157	6	7	0.857143	Confident
+cl60_164	Escherichia_coli_Shigella	O8/O9/O9a	8	8	1.0	Highly confident
+cl60_165	Escherichia_coli_Shigella	O132;O148;O15;O19;O20/O137;O8/O9/O9a	1;1;1;1;1;1	6;6;6;6;6;6	0.166667;0.166667;0.166667;0.166667;0.166667;0.166667	Uncertain;Uncertain;Uncertain;Uncertain;Uncertain;Uncertain
+cl60_17	Escherichia_coli_Shigella	O13/O129/O135	1	1	1.0	Highly confident
+cl60_170	Escherichia_coli_Shigella	K30	2	2	1.0	Highly confident
+cl60_173	Escherichia_coli_Shigella	O62/O68	1	1	1.0	Highly confident
+cl60_175	Escherichia_coli_Shigella	O123/O186	54	63	0.857143	Confident
+cl60_176	Escherichia_coli_Shigella	Escherichia_coli-KX02	41	48	0.854167	Confident
+cl60_178	Escherichia_coli_Shigella	O166	51	57	0.894737	Confident
+cl60_179	Escherichia_coli_Shigella	Escherichia_coli-KX44	15	17	0.882353	Confident
+cl60_180	Escherichia_coli_Shigella	O48	24	26	0.923077	Highly confident
+cl60_182	Escherichia_coli_Shigella	Escherichia_coli-KX03	2	2	1.0	Highly confident
+cl60_183	Escherichia_coli_Shigella	Escherichia_coli-KX40	25	33	0.757576	Confident
+cl60_186	Escherichia_coli_Shigella	Escherichia_coli-KX42	2	2	1.0	Highly confident
+cl60_187	Escherichia_coli_Shigella	O112;O8/O9/O9a	10;12	20;20	0.5;0.6	Confident;Confident
+cl60_188	Escherichia_coli_Shigella	Escherichia_coli-KX42	181	192	0.942708	Highly confident
+cl60_19	Escherichia_coli_Shigella	K47	4	6	0.666667	Confident
+cl60_191	Escherichia_coli_Shigella	K14	13	17	0.764706	Confident
+cl60_193	Escherichia_coli_Shigella	O8/O9/O9a	2	2	1.0	Highly confident
+cl60_195	Escherichia_coli_Shigella	K71	6	6	1.0	Highly confident
+cl60_202	Escherichia_coli_Shigella	Escherichia_coli-KX19;Escherichia_coli-KX21	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_206	Escherichia_coli_Shigella	O8/O9/O9a;Shigella-B17	14;15	22;22	0.636364;0.681818	Confident;Confident
+cl60_209	Escherichia_coli_Shigella	K25	8	12	0.666667	Confident
+cl60_214	Escherichia_coli_Shigella	K23	2	3	0.666667	Uncertain
+cl60_220	Escherichia_coli_Shigella	K53	10	12	0.833333	Confident
+cl60_227	Escherichia_coli_Shigella	O182	1	1	1.0	Highly confident
+cl60_229	Escherichia_coli_Shigella	O15	2	3	0.666667	Uncertain
+cl60_230	Escherichia_coli_Shigella	O187	17	17	1.0	Highly confident
+cl60_234	Escherichia_coli_Shigella	O71	36	36	1.0	Highly confident
+cl60_236	Escherichia_coli_Shigella	O40	4	9	0.444444	Confident
+cl60_237	Escherichia_coli_Shigella	O159	4	4	1.0	Highly confident
+cl60_242	Escherichia_coli_Shigella	O174	49	55	0.890909	Confident
+cl60_243	Escherichia_coli_Shigella	O16;O23;O3;O88	1;1;1;1	4;4;4;4	0.25;0.25;0.25;0.25	Uncertain;Uncertain;Uncertain;Uncertain
+cl60_244	Escherichia_coli_Shigella	O38	20	20	1.0	Highly confident
+cl60_248	Escherichia_coli_Shigella	Escherichia_coli-KX29	2	2	1.0	Highly confident
+cl60_249	Escherichia_coli_Shigella	Escherichia_coli-KX03	1	1	1.0	Highly confident
+cl60_253	Escherichia_coli_Shigella	O152	1	1	1.0	Highly confident
+cl60_255	Escherichia_coli_Shigella	O79	4	4	1.0	Highly confident
+cl60_256	Escherichia_coli_Shigella	O98	1	1	1.0	Highly confident
+cl60_258	Escherichia_coli_Shigella	O8/O9/O9a	8	10	0.8	Confident
+cl60_264	Escherichia_coli_Shigella	O8/O9/O9a	11	11	1.0	Highly confident
+cl60_266	Escherichia_coli_Shigella	O180	3	3	1.0	Highly confident
+cl60_267	Escherichia_coli_Shigella	Escherichia_coli-KX53	29	71	0.408451	Confident
+cl60_273	Escherichia_coli_Shigella	Escherichia_coli-KX75	3	5	0.6	Uncertain
+cl60_279	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_281	Escherichia_coli_Shigella	O108	5	6	0.833333	Confident
+cl60_282	Escherichia_coli_Shigella	O8/O9/O9a	38	39	0.974359	Highly confident
+cl60_287	Escherichia_coli_Shigella	O3;O89/O101/O162	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_29	Escherichia_coli_Shigella	O153/O178	69	72	0.958333	Highly confident
+cl60_290	Escherichia_coli_Shigella	O48	1	1	1.0	Highly confident
+cl60_295	Escherichia_coli_Shigella	O154;O21	8;6	21;21	0.380952;0.285714	Confident;Confident
+cl60_298	Escherichia_coli_Shigella	Escherichia_coli-KX42	2	2	1.0	Highly confident
+cl60_3	Escherichia_coli_Shigella	Escherichia_coli-KX03	2	2	1.0	Highly confident
+cl60_300	Escherichia_coli_Shigella	Escherichia_coli-KX29	94	229	0.41048	Confident
+cl60_307	Escherichia_coli_Shigella	Escherichia_coli-KX69	1	2	0.5	Uncertain
+cl60_309	Escherichia_coli_Shigella	O8/O9/O9a	20	21	0.952381	Highly confident
+cl60_310	Escherichia_coli_Shigella	Escherichia_coli-KX75	13	15	0.866667	Confident
+cl60_313	Escherichia_coli_Shigella	O21	34	43	0.790698	Confident
+cl60_314	Escherichia_coli_Shigella	O142	17	17	1.0	Highly confident
+cl60_316	Escherichia_coli_Shigella	O133	1	1	1.0	Highly confident
+cl60_317	Escherichia_coli_Shigella	O154	4	6	0.666667	Confident
+cl60_319	Escherichia_coli_Shigella	O51	5	6	0.833333	Confident
+cl60_324	Escherichia_coli_Shigella	O6	56	57	0.982456	Highly confident
+cl60_326	Escherichia_coli_Shigella	Escherichia_coli-KX75	1	1	1.0	Highly confident
+cl60_330	Escherichia_coli_Shigella	K13;K2	9;10	24;24	0.375;0.416667	Confident;Confident
+cl60_331	Escherichia_coli_Shigella	O6	34	34	1.0	Highly confident
+cl60_333	Escherichia_coli_Shigella	O74	5	5	1.0	Highly confident
+cl60_334	Escherichia_coli_Shigella	O8/O9/O9a	1	1	1.0	Highly confident
+cl60_336	Escherichia_coli_Shigella	O188;Shigella-B16	26;24	28;28	0.928571;0.857143	Highly confident;Confident
+cl60_338	Escherichia_coli_Shigella	O167	5	6	0.833333	Confident
+cl60_34	Escherichia_coli_Shigella	Escherichia_coli-KX21	1	2	0.5	Uncertain
+cl60_340	Escherichia_coli_Shigella	O118/O151	19	19	1.0	Highly confident
+cl60_341	Escherichia_coli_Shigella	O46/O134	35	46	0.76087	Confident
+cl60_342	Escherichia_coli_Shigella	O18/O18ab/O18ac	36	36	1.0	Highly confident
+cl60_344	Escherichia_coli_Shigella	Escherichia_coli-KX75	2	2	1.0	Highly confident
+cl60_345	Escherichia_coli_Shigella	O54	1	1	1.0	Highly confident
+cl60_348	Escherichia_coli_Shigella	Escherichia_coli-KX22	64	123	0.520325	Confident
+cl60_351	Escherichia_coli_Shigella	K57	18	28	0.642857	Confident
+cl60_353	Escherichia_coli_Shigella	K46	2	2	1.0	Highly confident
+cl60_354	Escherichia_coli_Shigella	O180	21	21	1.0	Highly confident
+cl60_355	Escherichia_coli_Shigella	Escherichia_coli-KX03	1	3	0.333333	Uncertain
+cl60_359	Escherichia_coli_Shigella	K47	30	37	0.810811	Confident
+cl60_364	Escherichia_coli_Shigella	O39	16	16	1.0	Highly confident
+cl60_367	Escherichia_coli_Shigella	K25	3	4	0.75	Uncertain
+cl60_37	Escherichia_coli_Shigella	K102	1	1	1.0	Highly confident
+cl60_371	Escherichia_coli_Shigella	Escherichia_coli-KX75	41	55	0.745455	Confident
+cl60_374	Escherichia_coli_Shigella	O176;O19	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_38	Escherichia_coli_Shigella	Escherichia_coli-KX42	2	8	0.25	Uncertain
+cl60_389	Escherichia_coli_Shigella	O80	11	11	1.0	Highly confident
+cl60_391	Escherichia_coli_Shigella	Shigella-B9	3	4	0.75	Uncertain
+cl60_394	Escherichia_coli_Shigella	O8/O9/O9a;Shigella-D10	2;2	3;3	0.666667;0.666667	Uncertain;Uncertain
+cl60_395	Escherichia_coli_Shigella	O36	1	1	1.0	Highly confident
+cl60_398	Escherichia_coli_Shigella	O141/O141ab/O141ac	21	24	0.875	Confident
+cl60_401	Escherichia_coli_Shigella	O54	15	15	1.0	Highly confident
+cl60_405	Escherichia_coli_Shigella	K115	1	1	1.0	Highly confident
+cl60_407	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_408	Escherichia_coli_Shigella	K71	1	1	1.0	Highly confident
+cl60_409	Escherichia_coli_Shigella	O113	25	27	0.925926	Highly confident
+cl60_410	Escherichia_coli_Shigella	O54	17	17	1.0	Highly confident
+cl60_412	Escherichia_coli_Shigella	O22	2	2	1.0	Highly confident
+cl60_413	Escherichia_coli_Shigella	K43	5	5	1.0	Highly confident
+cl60_414	Escherichia_coli_Shigella	O133	7	7	1.0	Highly confident
+cl60_416	Escherichia_coli_Shigella	Escherichia_coli-KX42	20	20	1.0	Highly confident
+cl60_418	Escherichia_coli_Shigella	Escherichia_coli-KX36	48	64	0.75	Confident
+cl60_422	Escherichia_coli_Shigella	O4	25	25	1.0	Highly confident
+cl60_426	Escherichia_coli_Shigella	O15;O18/O18ab/O18ac	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_428	Escherichia_coli_Shigella	Escherichia_coli-KX03	1	1	1.0	Highly confident
+cl60_430	Escherichia_coli_Shigella	O8/O9/O9a	6	7	0.857143	Confident
+cl60_431	Escherichia_coli_Shigella	O45	1	1	1.0	Highly confident
+cl60_439	Escherichia_coli_Shigella	O93	7	8	0.875	Confident
+cl60_442	Escherichia_coli_Shigella	O112	23	23	1.0	Highly confident
+cl60_443	Escherichia_coli_Shigella	O93	30	36	0.833333	Confident
+cl60_445	Escherichia_coli_Shigella	Escherichia_coli-KX47	67	86	0.77907	Confident
+cl60_447	Escherichia_coli_Shigella	O13/O129/O135	1	1	1.0	Highly confident
+cl60_449	Escherichia_coli_Shigella	K71	1	1	1.0	Highly confident
+cl60_45	Escherichia_coli_Shigella	O8/O9/O9a	74	85	0.870588	Confident
+cl60_451	Escherichia_coli_Shigella	O20/O137	35	35	1.0	Highly confident
+cl60_458	Escherichia_coli_Shigella	O144	6	6	1.0	Highly confident
+cl60_459	Escherichia_coli_Shigella	O25	3	3	1.0	Highly confident
+cl60_460	Escherichia_coli_Shigella	O8/O9/O9a;Shigella-D10	1;1	1;1	1.0;1.0	Highly confident;Highly confident
+cl60_466	Escherichia_coli_Shigella	O5	51	54	0.944444	Highly confident
+cl60_475	Escherichia_coli_Shigella	O70	14	16	0.875	Confident
+cl60_478	Escherichia_coli_Shigella	Escherichia_coli-KX42;Escherichia_coli-KX46	92;95	198;198	0.464646;0.479798	Confident;Confident
+cl60_485	Escherichia_coli_Shigella	O8/O9/O9a	4	5	0.8	Confident
+cl60_486	Escherichia_coli_Shigella	O133	6	6	1.0	Highly confident
+cl60_49	Escherichia_coli_Shigella	O93	7	10	0.7	Confident
+cl60_491	Escherichia_coli_Shigella	O8/O9/O9a	8	8	1.0	Highly confident
+cl60_492	Escherichia_coli_Shigella	O8/O9/O9a	3	3	1.0	Highly confident
+cl60_494	Escherichia_coli_Shigella	O15	1	1	1.0	Highly confident
+cl60_495	Escherichia_coli_Shigella	O184	8	8	1.0	Highly confident
+cl60_499	Escherichia_coli_Shigella	Escherichia_coli-KX42	6	34	0.176471	Confident
+cl60_500	Escherichia_coli_Shigella	O78	15	16	0.9375	Highly confident
+cl60_502	Escherichia_coli_Shigella	O29	9	10	0.9	Confident
+cl60_503	Escherichia_coli_Shigella	O2/O50	12	12	1.0	Highly confident
+cl60_505	Escherichia_coli_Shigella	O116	1	1	1.0	Highly confident
+cl60_507	Escherichia_coli_Shigella	O112	9	9	1.0	Highly confident
+cl60_509	Escherichia_coli_Shigella	O141/O141ab/O141ac	19	26	0.730769	Confident
+cl60_510	Escherichia_coli_Shigella	O32;O83	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_512	Escherichia_coli_Shigella	O184	1	1	1.0	Highly confident
+cl60_514	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_516	Escherichia_coli_Shigella	O159	33	35	0.942857	Highly confident
+cl60_52	Escherichia_coli_Shigella	Escherichia_coli-KX24	81	211	0.383886	Confident
+cl60_520	Escherichia_coli_Shigella	Escherichia_coli-KX22	146	307	0.47557	Confident
+cl60_523	Escherichia_coli_Shigella	K47	25	33	0.757576	Confident
+cl60_526	Escherichia_coli_Shigella	O170	12	12	1.0	Highly confident
+cl60_527	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_528	Escherichia_coli_Shigella	O45	12	15	0.8	Confident
+cl60_53	Escherichia_coli_Shigella	O154	9	16	0.5625	Confident
+cl60_533	Escherichia_coli_Shigella	O16	13	13	1.0	Highly confident
+cl60_536	Escherichia_coli_Shigella	O1	2	3	0.666667	Uncertain
+cl60_537	Escherichia_coli_Shigella	Escherichia_coli-KX42	37	43	0.860465	Confident
+cl60_54	Escherichia_coli_Shigella	O153/O178	62	67	0.925373	Highly confident
+cl60_541	Escherichia_coli_Shigella	O61	15	18	0.833333	Confident
+cl60_542	Escherichia_coli_Shigella	O8/O9/O9a	122	127	0.96063	Highly confident
+cl60_544	Escherichia_coli_Shigella	Escherichia_coli-KX29	3	4	0.75	Uncertain
+cl60_546	Escherichia_coli_Shigella	K9	1	1	1.0	Highly confident
+cl60_547	Escherichia_coli_Shigella	O71	10	10	1.0	Highly confident
+cl60_549	Escherichia_coli_Shigella	O29	7	7	1.0	Highly confident
+cl60_550	Escherichia_coli_Shigella	K46	4	4	1.0	Highly confident
+cl60_553	Escherichia_coli_Shigella	O139	7	7	1.0	Highly confident
+cl60_554	Escherichia_coli_Shigella	Escherichia_coli-KX28	2	6	0.333333	Uncertain
+cl60_556	Escherichia_coli_Shigella	O169/O183	10	11	0.909091	Highly confident
+cl60_559	Escherichia_coli_Shigella	O2/O50	38	38	1.0	Highly confident
+cl60_562	Escherichia_coli_Shigella	O108	30	30	1.0	Highly confident
+cl60_563	Escherichia_coli_Shigella	O88	13	14	0.928571	Highly confident
+cl60_564	Escherichia_coli_Shigella	O169/O183	9	9	1.0	Highly confident
+cl60_57	Escherichia_coli_Shigella	O76	3	3	1.0	Highly confident
+cl60_571	Escherichia_coli_Shigella	O83	41	76	0.539474	Confident
+cl60_572	Escherichia_coli_Shigella	K13	5	7	0.714286	Confident
+cl60_574	Escherichia_coli_Shigella	O16	5	7	0.714286	Confident
+cl60_575	Escherichia_coli_Shigella	O85	9	9	1.0	Highly confident
+cl60_576	Escherichia_coli_Shigella	O26	56	62	0.903226	Highly confident
+cl60_577	Escherichia_coli_Shigella	O105	2	4	0.5	Uncertain
+cl60_581	Escherichia_coli_Shigella	O126;O154;O177	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_583	Escherichia_coli_Shigella	Escherichia_coli-KX41	1	1	1.0	Highly confident
+cl60_584	Escherichia_coli_Shigella	O53	3	3	1.0	Highly confident
+cl60_585	Escherichia_coli_Shigella	O181	8	8	1.0	Highly confident
+cl60_589	Escherichia_coli_Shigella	O174	1	1	1.0	Highly confident
+cl60_590	Escherichia_coli_Shigella	O146	8	8	1.0	Highly confident
+cl60_593	Escherichia_coli_Shigella	O7	39	42	0.928571	Highly confident
+cl60_596	Escherichia_coli_Shigella	O82	35	38	0.921053	Highly confident
+cl60_60	Escherichia_coli_Shigella	K53	1	1	1.0	Highly confident
+cl60_603	Escherichia_coli_Shigella	O2/O50	39	40	0.975	Highly confident
+cl60_605	Escherichia_coli_Shigella	O95	3	3	1.0	Highly confident
+cl60_606	Escherichia_coli_Shigella	O8/O9/O9a	22	23	0.956522	Highly confident
+cl60_609	Escherichia_coli_Shigella	O32	1	1	1.0	Highly confident
+cl60_615	Escherichia_coli_Shigella	O8/O9/O9a;Shigella-B7	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_616	Escherichia_coli_Shigella	Escherichia_coli-KX28	1	1	1.0	Highly confident
+cl60_617	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	33	0.030303	Uncertain
+cl60_618	Escherichia_coli_Shigella	O79	2	2	1.0	Highly confident
+cl60_62	Escherichia_coli_Shigella	O18/O18ab/O18ac	29	30	0.966667	Highly confident
+cl60_621	Escherichia_coli_Shigella	O79	12	12	1.0	Highly confident
+cl60_623	Escherichia_coli_Shigella	O143	10	11	0.909091	Highly confident
+cl60_625	Escherichia_coli_Shigella	O115	17	17	1.0	Highly confident
+cl60_627	Escherichia_coli_Shigella	O1	2	2	1.0	Highly confident
+cl60_632	Escherichia_coli_Shigella	O5	21	23	0.913043	Highly confident
+cl60_633	Escherichia_coli_Shigella	O160	39	52	0.75	Confident
+cl60_636	Escherichia_coli_Shigella	Escherichia_coli-K96	2	5	0.4	Uncertain
+cl60_640	Escherichia_coli_Shigella	O163	23	23	1.0	Highly confident
+cl60_642	Escherichia_coli_Shigella	O37	8	9	0.888889	Confident
+cl60_643	Escherichia_coli_Shigella	O166	6	6	1.0	Highly confident
+cl60_644	Escherichia_coli_Shigella	O147	22	27	0.814815	Confident
+cl60_646	Escherichia_coli_Shigella	O41	9	9	1.0	Highly confident
+cl60_647	Escherichia_coli_Shigella	O45	5	5	1.0	Highly confident
+cl60_650	Escherichia_coli_Shigella	O150	13	13	1.0	Highly confident
+cl60_652	Escherichia_coli_Shigella	O147;O21;O24/O56/O157	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_657	Escherichia_coli_Shigella	Escherichia_coli-KX42	92	212	0.433962	Confident
+cl60_66	Escherichia_coli_Shigella	K9	1	1	1.0	Highly confident
+cl60_661	Escherichia_coli_Shigella	O154	2	3	0.666667	Uncertain
+cl60_663	Escherichia_coli_Shigella	O7	1	1	1.0	Highly confident
+cl60_665	Escherichia_coli_Shigella	K63	39	50	0.78	Confident
+cl60_667	Escherichia_coli_Shigella	O3	3	6	0.5	Uncertain
+cl60_668	Escherichia_coli_Shigella	O82	4	5	0.8	Confident
+cl60_672	Escherichia_coli_Shigella	Escherichia_coli-KX05	1	1	1.0	Highly confident
+cl60_676	Escherichia_coli_Shigella	O53	1	1	1.0	Highly confident
+cl60_677	Escherichia_coli_Shigella	Escherichia_coli-KX41	19	23	0.826087	Confident
+cl60_678	Escherichia_coli_Shigella	O53	1	1	1.0	Highly confident
+cl60_68	Escherichia_coli_Shigella	K35	9	11	0.818182	Confident
+cl60_682	Escherichia_coli_Shigella	O23	8	8	1.0	Highly confident
+cl60_683	Escherichia_coli_Shigella	O70	6	6	1.0	Highly confident
+cl60_684	Escherichia_coli_Shigella	O102;O24/O56/O157;O25;O8/O9/O9a;Shigella-B18	2;4;2;2;2	26;26;26;26;26	0.0769231;0.153846;0.0769231;0.0769231;0.0769231	Uncertain;Confident;Uncertain;Uncertain;Uncertain
+cl60_687	Escherichia_coli_Shigella	O18/O18ab/O18ac	2	2	1.0	Highly confident
+cl60_688	Escherichia_coli_Shigella	O153/O178	48	52	0.923077	Highly confident
+cl60_689	Escherichia_coli_Shigella	O105	6	6	1.0	Highly confident
+cl60_690	Escherichia_coli_Shigella	O2/O50	1	1	1.0	Highly confident
+cl60_691	Escherichia_coli_Shigella	O13/O129/O135	1	1	1.0	Highly confident
+cl60_695	Escherichia_coli_Shigella	O96	7	7	1.0	Highly confident
+cl60_696	Escherichia_coli_Shigella	O1	1	1	1.0	Highly confident
+cl60_697	Escherichia_coli_Shigella	O74	22	22	1.0	Highly confident
+cl60_698	Escherichia_coli_Shigella	O126;O53	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_700	Escherichia_coli_Shigella	K25	1	2	0.5	Uncertain
+cl60_702	Escherichia_coli_Shigella	O49	1	1	1.0	Highly confident
+cl60_706	Escherichia_coli_Shigella	O100	19	21	0.904762	Highly confident
+cl60_708	Escherichia_coli_Shigella	O148;O19;O86/O90/O127	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_709	Escherichia_coli_Shigella	O136	1	1	1.0	Highly confident
+cl60_712	Escherichia_coli_Shigella	O91	57	60	0.95	Highly confident
+cl60_714	Escherichia_coli_Shigella	O80	5	5	1.0	Highly confident
+cl60_715	Escherichia_coli_Shigella	O10	3	3	1.0	Highly confident
+cl60_716	Escherichia_coli_Shigella	O55	27	28	0.964286	Highly confident
+cl60_718	Escherichia_coli_Shigella	O168	18	18	1.0	Highly confident
+cl60_719	Escherichia_coli_Shigella	OX25	4	4	1.0	Highly confident
+cl60_721	Escherichia_coli_Shigella	O18/O18ab/O18ac	36	37	0.972973	Highly confident
+cl60_723	Escherichia_coli_Shigella	Escherichia_coli-KX41	1	1	1.0	Highly confident
+cl60_725	Escherichia_coli_Shigella	Escherichia_coli-KX42	11	90	0.122222	Confident
+cl60_727	Escherichia_coli_Shigella	O133;O8/O9/O9a	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_729	Escherichia_coli_Shigella	O116	5	5	1.0	Highly confident
+cl60_73	Escherichia_coli_Shigella	Escherichia_coli-KX11	5	5	1.0	Highly confident
+cl60_730	Escherichia_coli_Shigella	O138	11	11	1.0	Highly confident
+cl60_733	Escherichia_coli_Shigella	O168	19	19	1.0	Highly confident
+cl60_734	Escherichia_coli_Shigella	Escherichia_coli-KX11;Escherichia_coli-KX42	1;1	3;3	0.333333;0.333333	Uncertain;Uncertain
+cl60_738	Escherichia_coli_Shigella	O102	24	28	0.857143	Confident
+cl60_739	Escherichia_coli_Shigella	O153/O178	22	24	0.916667	Highly confident
+cl60_74	Escherichia_coli_Shigella	K60	1	1	1.0	Highly confident
+cl60_743	Escherichia_coli_Shigella	Escherichia_coli-KX11	34	48	0.708333	Confident
+cl60_744	Escherichia_coli_Shigella	O141/O141ab/O141ac	15	16	0.9375	Highly confident
+cl60_746	Escherichia_coli_Shigella	O35	8	8	1.0	Highly confident
+cl60_747	Escherichia_coli_Shigella	O80	35	37	0.945946	Highly confident
+cl60_748	Escherichia_coli_Shigella	Escherichia_coli-KX16	30	32	0.9375	Highly confident
+cl60_75	Escherichia_coli_Shigella	O5	4	8	0.5	Confident
+cl60_752	Escherichia_coli_Shigella	O18/O18ab/O18ac	3	3	1.0	Highly confident
+cl60_754	Escherichia_coli_Shigella	O107/O117	19	25	0.76	Confident
+cl60_755	Escherichia_coli_Shigella	O141/O141ab/O141ac	1	1	1.0	Highly confident
+cl60_756	Escherichia_coli_Shigella	O4	2	2	1.0	Highly confident
+cl60_759	Escherichia_coli_Shigella	Escherichia_coli-KX42	1	1	1.0	Highly confident
+cl60_761	Escherichia_coli_Shigella	O159	1	1	1.0	Highly confident
+cl60_763	Escherichia_coli_Shigella	O3	1	1	1.0	Highly confident
+cl60_765	Escherichia_coli_Shigella	O19	1	1	1.0	Highly confident
+cl60_766	Escherichia_coli_Shigella	O113	43	44	0.977273	Highly confident
+cl60_767	Escherichia_coli_Shigella	O8/O9/O9a	33	34	0.970588	Highly confident
+cl60_768	Escherichia_coli_Shigella	O110	22	23	0.956522	Highly confident
+cl60_77	Escherichia_coli_Shigella	Escherichia_coli-KX16	24	27	0.888889	Confident
+cl60_772	Escherichia_coli_Shigella	O136	29	29	1.0	Highly confident
+cl60_774	Escherichia_coli_Shigella	O103	110	121	0.909091	Highly confident
+cl60_776	Escherichia_coli_Shigella	O112;O174;O76	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_777	Escherichia_coli_Shigella	O17/O44/O73/O77/O106	15	17	0.882353	Confident
+cl60_778	Escherichia_coli_Shigella	O36	15	16	0.9375	Highly confident
+cl60_779	Escherichia_coli_Shigella	O66	1	1	1.0	Highly confident
+cl60_781	Escherichia_coli_Shigella	O8/O9/O9a	5	5	1.0	Highly confident
+cl60_784	Escherichia_coli_Shigella	K47	1	1	1.0	Highly confident
+cl60_788	Escherichia_coli_Shigella	Escherichia_coli-KX41	73	93	0.784946	Confident
+cl60_794	Escherichia_coli_Shigella	O15	39	40	0.975	Highly confident
+cl60_797	Escherichia_coli_Shigella	O8/O9/O9a	19	22	0.863636	Confident
+cl60_798	Escherichia_coli_Shigella	O8/O9/O9a	4	4	1.0	Highly confident
+cl60_8	Escherichia_coli_Shigella	K13	1	3	0.333333	Uncertain
+cl60_801	Escherichia_coli_Shigella	O78	54	61	0.885246	Confident
+cl60_805	Escherichia_coli_Shigella	O63	2	3	0.666667	Uncertain
+cl60_806	Escherichia_coli_Shigella	O76	45	51	0.882353	Confident
+cl60_808	Escherichia_coli_Shigella	O8/O9/O9a	13	13	1.0	Highly confident
+cl60_809	Escherichia_coli_Shigella	O133	9	10	0.9	Confident
+cl60_81	Escherichia_coli_Shigella	K127	1	1	1.0	Highly confident
+cl60_810	Escherichia_coli_Shigella	O128ab/O128ac/O128	53	58	0.913793	Highly confident
+cl60_813	Escherichia_coli_Shigella	Shigella-B2	8	8	1.0	Highly confident
+cl60_815	Escherichia_coli_Shigella	O141/O141ab/O141ac;O145;O2/O50;O21;O51;O85;O91	1;1;1;1;1;1;1	7;7;7;7;7;7;7	0.142857;0.142857;0.142857;0.142857;0.142857;0.142857;0.142857	Uncertain;Uncertain;Uncertain;Uncertain;Uncertain;Uncertain;Uncertain
+cl60_82	Escherichia_coli_Shigella	K47	9	10	0.9	Confident
+cl60_820	Escherichia_coli_Shigella	K25	1	1	1.0	Highly confident
+cl60_823	Escherichia_coli_Shigella	O133	2	3	0.666667	Uncertain
+cl60_824	Escherichia_coli_Shigella	O114;O5	8;7	17;17	0.470588;0.411765	Confident;Confident
+cl60_826	Escherichia_coli_Shigella	O69	9	9	1.0	Highly confident
+cl60_828	Escherichia_coli_Shigella	O4	1	1	1.0	Highly confident
+cl60_829	Escherichia_coli_Shigella	O75	2	2	1.0	Highly confident
+cl60_830	Escherichia_coli_Shigella	O103	1	1	1.0	Highly confident
+cl60_834	Escherichia_coli_Shigella	Escherichia_coli-KX42	2	3	0.666667	Uncertain
+cl60_836	Escherichia_coli_Shigella	O171	13	16	0.8125	Confident
+cl60_837	Escherichia_coli_Shigella	O114	17	17	1.0	Highly confident
+cl60_838	Escherichia_coli_Shigella	O149	21	26	0.807692	Confident
+cl60_84	Escherichia_coli_Shigella	O26	34	34	1.0	Highly confident
+cl60_841	Escherichia_coli_Shigella	O86/O90/O127	3	3	1.0	Highly confident
+cl60_844	Escherichia_coli_Shigella	K20;K57;K63	1;3;1	26;26;26	0.0384615;0.115385;0.0384615	Uncertain;Uncertain;Uncertain
+cl60_847	Escherichia_coli_Shigella	O17/O44/O73/O77/O106	39	47	0.829787	Confident
+cl60_848	Escherichia_coli_Shigella	O116	23	25	0.92	Highly confident
+cl60_849	Escherichia_coli_Shigella	O176	20	20	1.0	Highly confident
+cl60_850	Escherichia_coli_Shigella	Shigella-B9	12	12	1.0	Highly confident
+cl60_852	Escherichia_coli_Shigella	O34	7	7	1.0	Highly confident
+cl60_856	Escherichia_coli_Shigella	O62/O68	13	15	0.866667	Confident
+cl60_857	Escherichia_coli_Shigella	O145	11	11	1.0	Highly confident
+cl60_858	Escherichia_coli_Shigella	O58	11	13	0.846154	Confident
+cl60_860	Escherichia_coli_Shigella	O20/O137	6	7	0.857143	Confident
+cl60_861	Escherichia_coli_Shigella	Escherichia_coli-KX69	1	15	0.0666667	Uncertain
+cl60_865	Escherichia_coli_Shigella	O87	29	30	0.966667	Highly confident
+cl60_867	Escherichia_coli_Shigella	Escherichia_coli-KX05	1	1	1.0	Highly confident
+cl60_868	Escherichia_coli_Shigella	O8/O9/O9a	2	3	0.666667	Uncertain
+cl60_87	Escherichia_coli_Shigella	Escherichia_coli-K11	9	18	0.5	Confident
+cl60_870	Escherichia_coli_Shigella	Escherichia_coli-KX21	1	1	1.0	Highly confident
+cl60_873	Escherichia_coli_Shigella	O132	1	1	1.0	Highly confident
+cl60_876	Escherichia_coli_Shigella	Escherichia_coli-KX03	1	1	1.0	Highly confident
+cl60_879	Escherichia_coli_Shigella	O2/O50	8	8	1.0	Highly confident
+cl60_88	Escherichia_coli_Shigella	O8/O9/O9a	1	1	1.0	Highly confident
+cl60_880	Escherichia_coli_Shigella	O120	15	15	1.0	Highly confident
+cl60_883	Escherichia_coli_Shigella	O89/O101/O162	1	1	1.0	Highly confident
+cl60_884	Escherichia_coli_Shigella	O29	2	2	1.0	Highly confident
+cl60_885	Escherichia_coli_Shigella	O53	8	8	1.0	Highly confident
+cl60_888	Escherichia_coli_Shigella	O25	7	7	1.0	Highly confident
+cl60_889	Escherichia_coli_Shigella	O29	13	14	0.928571	Highly confident
+cl60_89	Escherichia_coli_Shigella	O185	28	28	1.0	Highly confident
+cl60_890	Escherichia_coli_Shigella	O104	31	37	0.837838	Confident
+cl60_891	Escherichia_coli_Shigella	O29	45	45	1.0	Highly confident
+cl60_893	Escherichia_coli_Shigella	Escherichia_coli-KX42	10	51	0.196078	Confident
+cl60_895	Escherichia_coli_Shigella	O17/O44/O73/O77/O106	17	18	0.944444	Highly confident
+cl60_897	Escherichia_coli_Shigella	O81	77	78	0.987179	Highly confident
+cl60_898	Escherichia_coli_Shigella	K57	3	3	1.0	Highly confident
+cl60_900	Escherichia_coli_Shigella	O111	66	67	0.985075	Highly confident
+cl60_903	Escherichia_coli_Shigella	O5	4	5	0.8	Confident
+cl60_905	Escherichia_coli_Shigella	O148	1	1	1.0	Highly confident
+cl60_909	Escherichia_coli_Shigella	O88	3	3	1.0	Highly confident
+cl60_91	Escherichia_coli_Shigella	K123	2	6	0.333333	Uncertain
+cl60_910	Escherichia_coli_Shigella	O70	15	18	0.833333	Confident
+cl60_911	Escherichia_coli_Shigella	O53	4	4	1.0	Highly confident
+cl60_913	Escherichia_coli_Shigella	O53	2	2	1.0	Highly confident
+cl60_916	Escherichia_coli_Shigella	O4;O6	12;11	36;36	0.333333;0.305556	Confident;Confident
+cl60_917	Escherichia_coli_Shigella	O49	14	18	0.777778	Confident
+cl60_919	Escherichia_coli_Shigella	O2/O50	2	2	1.0	Highly confident
+cl60_920	Escherichia_coli_Shigella	Escherichia_coli-KX39	1	1	1.0	Highly confident
+cl60_922	Escherichia_coli_Shigella	O8/O9/O9a	37	37	1.0	Highly confident
+cl60_923	Escherichia_coli_Shigella	O154;O51	2;2	5;5	0.4;0.4	Uncertain;Uncertain
+cl60_924	Escherichia_coli_Shigella	Escherichia_coli-KX03	1	1	1.0	Highly confident
+cl60_925	Escherichia_coli_Shigella	O139	6	9	0.666667	Confident
+cl60_927	Escherichia_coli_Shigella	O166	1	1	1.0	Highly confident
+cl60_928	Escherichia_coli_Shigella	O38	1	1	1.0	Highly confident
+cl60_929	Escherichia_coli_Shigella	O70	6	6	1.0	Highly confident
+cl60_932	Escherichia_coli_Shigella	O25	16	18	0.888889	Confident
+cl60_934	Escherichia_coli_Shigella	Escherichia_coli-KX68	6	10	0.6	Confident
+cl60_936	Escherichia_coli_Shigella	O36	18	24	0.75	Confident
+cl60_937	Escherichia_coli_Shigella	O85	7	7	1.0	Highly confident
+cl60_941	Escherichia_coli_Shigella	O29	1	1	1.0	Highly confident
+cl60_942	Escherichia_coli_Shigella	O3	25	27	0.925926	Highly confident
+cl60_944	Escherichia_coli_Shigella	O160	2	2	1.0	Highly confident
+cl60_945	Escherichia_coli_Shigella	O140	26	27	0.962963	Highly confident
+cl60_947	Escherichia_coli_Shigella	O75	25	28	0.892857	Confident
+cl60_949	Escherichia_coli_Shigella	O125ab/O125ac/O125	20	24	0.833333	Confident
+cl60_95	Escherichia_coli_Shigella	Escherichia_coli-KX02	173	200	0.865	Confident
+cl60_950	Escherichia_coli_Shigella	O146	11	11	1.0	Highly confident
+cl60_951	Escherichia_coli_Shigella	O85	8	8	1.0	Highly confident
+cl60_953	Escherichia_coli_Shigella	O38	18	18	1.0	Highly confident
+cl60_955	Escherichia_coli_Shigella	O16	14	16	0.875	Confident
+cl60_956	Escherichia_coli_Shigella	O2/O50	12	14	0.857143	Confident
+cl60_958	Escherichia_coli_Shigella	Escherichia_coli-KX40	1	2	0.5	Uncertain
+cl60_959	Escherichia_coli_Shigella	O8/O9/O9a	3	3	1.0	Highly confident
+cl60_960	Escherichia_coli_Shigella	O8/O9/O9a	1	1	1.0	Highly confident
+cl60_961	Escherichia_coli_Shigella	O1	2	2	1.0	Highly confident
+cl60_963	Escherichia_coli_Shigella	O166	20	20	1.0	Highly confident
+cl60_964	Escherichia_coli_Shigella	O109	57	60	0.95	Highly confident
+cl60_965	Escherichia_coli_Shigella	O150	16	16	1.0	Highly confident
+cl60_966	Escherichia_coli_Shigella	O13/O129/O135	1	1	1.0	Highly confident
+cl60_971	Escherichia_coli_Shigella	O150	7	7	1.0	Highly confident
+cl60_972	Escherichia_coli_Shigella	O116	1	1	1.0	Highly confident
+cl60_973	Escherichia_coli_Shigella	Shigella-B18	13	15	0.866667	Confident
+cl60_977	Escherichia_coli_Shigella	O118/O151;O39	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_981	Escherichia_coli_Shigella	O16	39	40	0.975	Highly confident
+cl60_982	Escherichia_coli_Shigella	O51	1	1	1.0	Highly confident
+cl60_983	Escherichia_coli_Shigella	O108	29	41	0.707317	Confident
+cl60_985	Escherichia_coli_Shigella	O23;O62/O68;O8/O9/O9a	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_986	Escherichia_coli_Shigella	K114	1	1	1.0	Highly confident
+cl60_988	Escherichia_coli_Shigella	O38	8	8	1.0	Highly confident
+cl60_992	Escherichia_coli_Shigella	O69	1	1	1.0	Highly confident
+cl60_994	Escherichia_coli_Shigella	O146	4	4	1.0	Highly confident
+cl60_996	Escherichia_coli_Shigella	O53	7	8	0.875	Confident
+cl60_999	Escherichia_coli_Shigella	Escherichia_coli-KX13	21	23	0.913043	Highly confident

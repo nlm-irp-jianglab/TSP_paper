@@ -1,0 +1,128 @@
+cl60_1002	Salmonella	51	2	2	1.0	Highly confident
+cl60_1018	Salmonella	9	1	1	1.0	Highly confident
+cl60_1020	Salmonella	16	171	172	0.994186	Highly confident
+cl60_1036	Salmonella	28	1	1	1.0	Highly confident
+cl60_104	Salmonella	45	13	13	1.0	Highly confident
+cl60_1047	Salmonella	63	2	2	1.0	Highly confident
+cl60_1049	Salmonella	3,10	22	28	0.785714	Confident
+cl60_1061	Salmonella	7	372	388	0.958763	Highly confident
+cl60_1063	Salmonella	4	2	2	1.0	Highly confident
+cl60_1066	Salmonella	7	151	152	0.993421	Highly confident
+cl60_1067	Salmonella	21;9	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_1071	Salmonella	53	10	11	0.909091	Highly confident
+cl60_1072	Salmonella	18	2	2	1.0	Highly confident
+cl60_110	Salmonella	45	12	13	0.923077	Highly confident
+cl60_1111	Salmonella	7;8;9	5;4;4	21;21;21	0.238095;0.190476;0.190476	Confident;Confident;Confident
+cl60_1116	Salmonella	8	99	99	1.0	Highly confident
+cl60_1125	Salmonella	4;9	3;3	6;6	0.5;0.5	Uncertain;Uncertain
+cl60_1132	Salmonella	6,14	4	4	1.0	Highly confident
+cl60_1133	Salmonella	6,14	13	13	1.0	Highly confident
+cl60_1143	Salmonella	8	1	1	1.0	Highly confident
+cl60_1156	Salmonella	3,10	1	1	1.0	Highly confident
+cl60_1163	Salmonella	4	1	1	1.0	Highly confident
+cl60_1169	Salmonella	7;9	2;2	4;4	0.5;0.5	Uncertain;Uncertain
+cl60_1170	Salmonella	35;7;8	1;1;1	3;3;3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_1175	Salmonella	7	2	2	1.0	Highly confident
+cl60_1178	Salmonella	4	1	1	1.0	Highly confident
+cl60_1179	Salmonella	4	1	1	1.0	Highly confident
+cl60_1184	Salmonella	7	1	1	1.0	Highly confident
+cl60_1186	Salmonella	48;9	1;1	2;2	0.5;0.5	Uncertain;Uncertain
+cl60_12	Salmonella	4	2	2	1.0	Highly confident
+cl60_125	Salmonella	13	37	38	0.973684	Highly confident
+cl60_135	Salmonella	13	20	20	1.0	Highly confident
+cl60_139	Salmonella	8	7	7	1.0	Highly confident
+cl60_14	Salmonella	4	1	1	1.0	Highly confident
+cl60_150	Salmonella	9	2	2	1.0	Highly confident
+cl60_151	Salmonella	30	9	10	0.9	Confident
+cl60_159	Salmonella	30	16	16	1.0	Highly confident
+cl60_175	Salmonella	58	7	7	1.0	Highly confident
+cl60_185	Salmonella	4	1	1	1.0	Highly confident
+cl60_197	Salmonella	4	2	2	1.0	Highly confident
+cl60_2	Salmonella	18	1	1	1.0	Highly confident
+cl60_20	Salmonella	4	182	201	0.905473	Highly confident
+cl60_206	Salmonella	4	1	1	1.0	Highly confident
+cl60_234	Salmonella	28	18	18	1.0	Highly confident
+cl60_239	Salmonella	8	1	1	1.0	Highly confident
+cl60_24	Salmonella	3,10	44	70	0.628571	Confident
+cl60_240	Salmonella	9	1	1	1.0	Highly confident
+cl60_246	Salmonella	28	6	6	1.0	Highly confident
+cl60_26	Salmonella	4	2	2	1.0	Highly confident
+cl60_288	Salmonella	21	7	7	1.0	Highly confident
+cl60_291	Salmonella	9	1	1	1.0	Highly confident
+cl60_294	Salmonella	41	53	53	1.0	Highly confident
+cl60_30	Salmonella	4	21	25	0.84	Confident
+cl60_313	Salmonella	38	14	14	1.0	Highly confident
+cl60_324	Salmonella	40	22	22	1.0	Highly confident
+cl60_325	Salmonella	4;47	4;4	17;17	0.235294;0.235294	Confident;Confident
+cl60_327	Salmonella	8	2	2	1.0	Highly confident
+cl60_331	Salmonella	40	10	10	1.0	Highly confident
+cl60_337	Salmonella	57	1	1	1.0	Highly confident
+cl60_340	Salmonella	47	45	45	1.0	Highly confident
+cl60_361	Salmonella	3,10	32	58	0.551724	Confident
+cl60_368	Salmonella	8	11	11	1.0	Highly confident
+cl60_369	Salmonella	21	24	25	0.96	Highly confident
+cl60_39	Salmonella	9	1	1	1.0	Highly confident
+cl60_42	Salmonella	8	2	2	1.0	Highly confident
+cl60_420	Salmonella	4	1	1	1.0	Highly confident
+cl60_424	Salmonella	8	569	573	0.993019	Highly confident
+cl60_437	Salmonella	7	1	1	1.0	Highly confident
+cl60_440	Salmonella	8	2	2	1.0	Highly confident
+cl60_447	Salmonella	4	393	643	0.611198	Confident
+cl60_462	Salmonella	30	16	16	1.0	Highly confident
+cl60_466	Salmonella	28	24	24	1.0	Highly confident
+cl60_468	Salmonella	4	156	214	0.728972	Confident
+cl60_487	Salmonella	4	44	64	0.6875	Confident
+cl60_492	Salmonella	48	9	9	1.0	Highly confident
+cl60_495	Salmonella	39	10	10	1.0	Highly confident
+cl60_500	Salmonella	65	8	8	1.0	Highly confident
+cl60_536	Salmonella	42	4	4	1.0	Highly confident
+cl60_547	Salmonella	28	2	2	1.0	Highly confident
+cl60_566	Salmonella	9	1	1	1.0	Highly confident
+cl60_575	Salmonella	17	12	12	1.0	Highly confident
+cl60_580	Salmonella	8	12	12	1.0	Highly confident
+cl60_582	Salmonella	4	3	3	1.0	Highly confident
+cl60_583	Salmonella	40	6	6	1.0	Highly confident
+cl60_587	Salmonella	4	1	1	1.0	Highly confident
+cl60_630	Salmonella	40	11	11	1.0	Highly confident
+cl60_631	Salmonella	40	6	6	1.0	Highly confident
+cl60_632	Salmonella	28	1	1	1.0	Highly confident
+cl60_674	Salmonella	21	46	47	0.978723	Highly confident
+cl60_696	Salmonella	42	1	1	1.0	Highly confident
+cl60_7	Salmonella	7	1	1	1.0	Highly confident
+cl60_702	Salmonella	53	3	3	1.0	Highly confident
+cl60_716	Salmonella	50	29	29	1.0	Highly confident
+cl60_732	Salmonella	3,10;9,46	41;34	84;84	0.488095;0.404762	Confident;Confident
+cl60_736	Salmonella	8	466	468	0.995726	Highly confident
+cl60_751	Salmonella	9	1	1	1.0	Highly confident
+cl60_769	Salmonella	4	132	173	0.763006	Confident
+cl60_771	Salmonella	28	1	1	1.0	Highly confident
+cl60_777	Salmonella	3,10	3	3	1.0	Highly confident
+cl60_800	Salmonella	7	157	158	0.993671	Highly confident
+cl60_801	Salmonella	65	9	10	0.9	Confident
+cl60_819	Salmonella	8	1	1	1.0	Highly confident
+cl60_821	Salmonella	7	49	50	0.98	Highly confident
+cl60_827	Salmonella	8	10	10	1.0	Highly confident
+cl60_835	Salmonella	4	171	255	0.670588	Confident
+cl60_847	Salmonella	6,14	5	5	1.0	Highly confident
+cl60_849	Salmonella	18	41	43	0.953488	Highly confident
+cl60_857	Salmonella	48	9	9	1.0	Highly confident
+cl60_874	Salmonella	4	1	1	1.0	Highly confident
+cl60_877	Salmonella	6,14	1	1	1.0	Highly confident
+cl60_895	Salmonella	6,14	51	51	1.0	Highly confident
+cl60_896	Salmonella	8	1	1	1.0	Highly confident
+cl60_900	Salmonella	35	61	61	1.0	Highly confident
+cl60_904	Salmonella	8	1	1	1.0	Highly confident
+cl60_92	Salmonella	4	2	3	0.666667	Uncertain
+cl60_935	Salmonella	8	2	2	1.0	Highly confident
+cl60_937	Salmonella	17	4	4	1.0	Highly confident
+cl60_94	Salmonella	9	1	1	1.0	Highly confident
+cl60_940	Salmonella	60	5	5	1.0	Highly confident
+cl60_947	Salmonella	11	84	85	0.988235	Highly confident
+cl60_951	Salmonella	17	25	25	1.0	Highly confident
+cl60_967	Salmonella	42	9	9	1.0	Highly confident
+cl60_968	Salmonella	44	10	10	1.0	Highly confident
+cl60_970	Salmonella	38	1	1	1.0	Highly confident
+cl60_976	Salmonella	61	6	6	1.0	Highly confident
+cl60_984	Salmonella	8	1	1	1.0	Highly confident
+cl60_993	Salmonella	4	2	2	1.0	Highly confident
+cl60_997	Salmonella	8	2	2	1.0	Highly confident
