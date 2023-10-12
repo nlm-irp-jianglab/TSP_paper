@@ -1,4 +1,4 @@
-# Deciphering Phage-Host Specificity Based on the Association of Phage Depolymerases and Bacterial Surface Glycan using Deep Learning
+# Large-scale Genomic Survey with Deep Learning-based Method Reveals Strain-Level Phage Specificity Determinants
 
 This repository contains the code to 1) find prophage regions from bacterial genomes and 2) assign serotypes to tailspike protein clusters implementation for the research paper titled "Large-scale Genomic Survey with Deep Learning-based Method Reveals Strain-Level Phage Specificity Determinants". 
 
