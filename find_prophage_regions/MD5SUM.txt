@@ -1,0 +1,4 @@
+9b08757dadf8ad736fc397ad2bb7d527  ./bacteria_assembly_id.tsv
+e001dff9ed6615197155ef393cfd51ea  ./VIBRANT_prophage_regions.tsv.tar.gz
+c710a44c36d35c5a16a5188d7dbf0fc7  ./step1.download_genome.sh
+4f2f8e2f56a7e4f6a1a020de16348ffd  ./step2.run_VIBRANT.sh

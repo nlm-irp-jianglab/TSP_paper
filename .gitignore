@@ -1,2 +1,5 @@
+records.sh
 Step2.find_HGT/*
 Step3.domain_swapping/*
+data/bacteria_genomes
+data/VIBRANT_prophage_regions
