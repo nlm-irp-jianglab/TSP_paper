@@ -31,6 +31,10 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 
 ```
 
+## File description
+- data/TSP_ids_and_clusters.txt: The file contains tailspike protein IDs idenitified in this study with their corresponding clusters at various protein identities.
+The description for other files can be found in the README files in individual folders.
+
 ## Running scripts
 Please read the individual README files in find_prophage_regions/ and assign_serotype/ for detailed instructions.
 
