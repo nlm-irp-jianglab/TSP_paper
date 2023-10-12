@@ -14,7 +14,7 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 │   ├── Escherichia_coli_Shigella.cl602sero_full.tsv
 │   ├── Klebsiella.cl602sero_full.tsv
 │   ├── Pseudomonas_aeruginosa.cl602sero_full.tsv
-│   ├── README
+│   ├── README.md
 │   ├── results
 │   └── Salmonella.cl602sero_full.tsv
 ├── data 
@@ -22,7 +22,7 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 ├── find_prophage_regions
 │   ├── bacteria_assembly_id.tsv
 │   ├── MD5SUM.txt
-│   ├── README
+│   ├── README.md
 │   ├── step1.download_genome.sh
 │   ├── step2.run_VIBRANT.sh
 │   └── VIBRANT_prophage_regions.tsv
@@ -33,10 +33,10 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 
 ## File description
 - data/TSP_ids_and_clusters.txt: The file contains tailspike protein IDs idenitified in this study with their corresponding clusters at various protein identities.
-- The description for other files can be found in the README files in individual folders.
+- The description for other files can be found in the README.md files in individual folders.
 
 ## Running scripts
-Please read the individual README files in find_prophage_regions/ and assign_serotype/ for detailed instructions.
+Please read the individual README.md files in find_prophage_regions/ and assign_serotype/ for detailed instructions.
 
 ## Citation
 If you use SpikeHunter in your research, please cite it as follows: Yang Y, Dufault-Thompson K, Yan W, Cai T, Xie L, Jiang X. Deciphering Phage-Host Specificity Based on the Association of Phage Depolymerases and Bacterial Surface Glycan with Deep Learning. bioRxiv. 2023:2023-06.

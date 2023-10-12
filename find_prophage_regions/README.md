@@ -1,5 +1,4 @@
 # Files description:
-- README: The file you are reading.
 - bacteria_assembly_id.tsv: The NCBI assembly IDs for bacterial genomes. It contains two columns: the genome assembly ID (Genome) and the species of the bacteria (Species).
 - VIBRANT_prophage_regions.tsv.tar.gz: The prophage fragments dectected from host bacterial genomes listed in bacteria_assembly_id.tsv which are organized from the original results from VIBRANT. It contains five columns: The genome assembly ID where the prophage is derived from (Genome), The scaffold of the genome where the prophage is derived from (Scaffold), The unique name for the prophage fragment (Prophage fragment), the nucleotide start position of the prophage in the genome (Nucleotide start) and the nucleotide end position of the prophage in the genome (Nucleotide end). You could get this file by running scripts `step1.download_genome.sh` and `step2.run_VIBRANT.sh` for all the genomes listed in `bacteria_assembly_id.tsv` and merging all the results. 
 - step1.download_genome.sh: the bash script to download the bacterial genomes from NCBI.
