@@ -8,6 +8,12 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 
 ## File structure
 ```
+├── ablation_studies
+│   ├── add_dropout_layers
+│   ├── best_models
+│   ├── delete_hidden_layer
+│   ├── README.md
+│   └── SeqVec_encoder
 ├── assign_serotype
 │   ├── Acinetobacter.cl602sero_full.tsv
 │   ├── assign_serotype2TSP.py
@@ -17,7 +23,8 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 │   ├── README.md
 │   ├── results
 │   └── Salmonella.cl602sero_full.tsv
-├── data 
+├── data
+│   ├── bacteria_genomes
 │   └── TSP_ids_and_clusters.txt
 ├── find_prophage_regions
 │   ├── bacteria_assembly_id.tsv
@@ -25,10 +32,9 @@ This repository contains the code to 1) find prophage regions from bacterial gen
 │   ├── README.md
 │   ├── step1.download_genome.sh
 │   ├── step2.run_VIBRANT.sh
-│   └── VIBRANT_prophage_regions.tsv
+│   └── VIBRANT_prophage_regions.tsv.tar.gz
 ├── LICENSE
 └── README.md
-
 ```
 
 ## File description
